@@ -1,4 +1,4 @@
-# RL4AD
+# TRL4AD
 Code for "TRL4AD: Self-Supervised Dual-View Representation Learning for Anomalous Route Detection in Trajectory Databases"
 ### Preprocessing
 - Step1: Download data (<tt>train.csv.zip</tt>) from https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data.
